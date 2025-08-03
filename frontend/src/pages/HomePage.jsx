@@ -7,7 +7,8 @@ const HomePage = () => {
   const [searchTerm, setSearchTerm] = useState('');
 
   useEffect(() => {
-    fetch('http://localhost:5000/api/doctors')
+    fetch(`${process.env.Base_URL}/api/doctors`)
+
       .then((res) => res.json())
       .then((data) => setDoctors(data));
   }, []);

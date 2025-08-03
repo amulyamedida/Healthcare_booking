@@ -1,4 +1,4 @@
-# 🏥 Doctor Appointment Booking App
+# 🏥 Doctor Appointment Booking System
 
 A web application to help users find doctors, view their profiles, and book appointments easily.
 
