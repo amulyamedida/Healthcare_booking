@@ -1,0 +1,110 @@
+[
+  {
+    "id": "1",
+    "name": "Dr. Kiranmai",
+    "specialization": "Cardiologist",
+    "qualification": "MBBS, MD (Cardiology)",
+    "experience": 9,
+    "image": "/images/doctors/d1.jpg",
+    "availableSlots": ["2025-08-03T10:00", "2025-08-03T14:00"]
+  },
+  {
+    "id": "2",
+    "name": "Dr. Chaitanya",
+    "specialization": "Dermatologist",
+    "qualification": "MBBS, MD (Dermatology)",
+    "experience": 10,
+    "image": "/images/doctors/d2.jpg",
+    "availableSlots": ["2025-08-03T10:00", "2025-08-03T14:00"]
+  },
+  {
+    "id": "3",
+    "name": "Dr. Meera Singh",
+    "specialization": "Pediatrician",
+    "qualification": "MBBS, MD (Pediatrics)",
+    "experience": 12,
+    "image": "/images/doctors/d3.jpg",
+    "availableSlots": ["2025-08-03T10:00", "2025-08-03T14:00"]
+  },
+  {
+    "id": "4",
+    "name": "Dr. John D’Souza",
+    "specialization": "Neurologist",
+    "qualification": "MBBS, DM (Neurology)",
+    "experience": 13,
+    "image": "/images/doctors/d4.jpg",
+    "availableSlots": ["2025-08-03T10:00", "2025-08-03T14:00"]
+  },
+  {
+    "id": "5",
+    "name": "Dr. Sai Teja Reddy",
+    "specialization": "Cardiologist",
+    "qualification": "MBBS, MD (Cardiology)",
+    "experience": 11,
+    "image": "/images/doctors/d5.jpg",
+    "availableSlots": ["2025-08-03T09:00", "2025-08-03T13:00"]
+  },
+  {
+    "id": "6",
+    "name": "Dr. Keerthi Latha",
+    "specialization": "Dermatologist",
+    "qualification": "MBBS, MD (Dermatology)",
+    "experience": 9,
+    "image": "/images/doctors/d6.jpg",
+    "availableSlots": ["2025-08-03T10:00", "2025-08-03T14:00"]
+  },
+  {
+    "id": "7",
+    "name": "Dr. Anuhya",
+    "specialization": "Orthopedic Surgeon",
+    "qualification": "MBBS, MS (Orthopedics)",
+    "experience": 13,
+    "image": "/images/doctors/d7.jpg",
+    "availableSlots": ["2025-08-03T11:00", "2025-08-03T15:30"]
+  },
+  {
+    "id": "8",
+    "name": "Dr. Sravani Ramesh",
+    "specialization": "Gynecologist",
+    "qualification": "MBBS, MS (Obstetrics & Gynaecology)",
+    "experience": 12,
+    "image": "/images/doctors/d8.jpg",
+    "availableSlots": ["2025-08-03T08:30", "2025-08-03T16:00"]
+  },
+  {
+    "id": "9",
+    "name": "Dr. Harsha Vardhan",
+    "specialization": "Neurologist",
+    "qualification": "MBBS, DM (Neurology)",
+    "experience": 15,
+    "image": "/images/doctors/d2.jpg",
+    "availableSlots": ["2025-08-03T10:30", "2025-08-03T13:30"]
+  },
+  {
+    "id": "10",
+    "name": "Dr. Ananya Rao",
+    "specialization": "Endocrinologist",
+    "qualification": "MBBS, DM (Endocrinology)",
+    "experience": 11,
+    "image": "/images/doctors/d10.jpg",
+    "availableSlots": ["2025-08-03T09:30", "2025-08-03T13:30"]
+  },
+  {
+    "id": "11",
+    "name": "Dr. Vivek Nair",
+    "specialization": "Pulmonologist",
+    "qualification": "MBBS, MD (Pulmonary Medicine)",
+    "experience": 10,
+    "image": "/images/doctors/d11.jpg",
+    "availableSlots": ["2025-08-03T10:00", "2025-08-03T15:00"]
+  },
+  {
+    "id": "12",
+    "name": "Dr. Sneha Kulkarni",
+    "specialization": "Psychiatrist",
+    "qualification": "MBBS, MD (Psychiatry)",
+    "experience": 9,
+    "image": "/images/doctors/d9.jpg",
+    "availableSlots": ["2025-08-03T11:00", "2025-08-03T16:00"]
+  }
+]

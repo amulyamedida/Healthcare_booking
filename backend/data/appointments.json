@@ -1,0 +1,34 @@
+[
+  {
+    "id": "1754212169184",
+    "patientName": "Amulya",
+    "email": "abc@gmail.com",
+    "date": "2025-09-05",
+    "time": "09:40",
+    "doctorId": "1"
+  },
+  {
+    "id": "1754213591163",
+    "patientName": "anakjshd",
+    "email": "n@gmail.com",
+    "date": "2025-08-28",
+    "time": "18:02",
+    "doctorId": "1"
+  },
+  {
+    "id": "1754219356831",
+    "patientName": "Amulya",
+    "email": "abc@gmail.com",
+    "date": "2025-09-05",
+    "time": "20:00",
+    "doctorId": "2"
+  },
+  {
+    "id": "1754219581617",
+    "patientName": "amulya",
+    "email": "abc@gmail.com",
+    "date": "2025-09-07",
+    "time": "16:45",
+    "doctorId": "2"
+  }
+]
